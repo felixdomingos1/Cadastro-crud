@@ -2,7 +2,7 @@
 <div class="container">
     <header class="jumbotron">
         <div class="row">
-            <h2>Cadastro em PHP <span class="badge badge-secondary">Eduardo JP</span></h2>
+            <h2>Crud em PHP <span class="badge badge-secondary">Eduardo JP</span></h2>
         </div>
     </header>
     <aside class="row">  
